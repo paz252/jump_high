@@ -122,7 +122,6 @@ function animate() {
         collision = true;
         startBtn.classList.remove('hideBtn');
     }
-    console.log(obstacleSpeed)
 }
 
 startBtn.addEventListener('click',()=>{
